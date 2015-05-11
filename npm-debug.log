@@ -1,0 +1,17 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'completion' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.33
+4 error nospc npm completion not supported on windows
+4 error nospc This is most likely not a problem with npm itself
+4 error nospc and is related to insufficient space on your system.
+5 error System Windows_NT 6.2.9200
+6 error command "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "completion"
+7 error cwd C:\Development\git\conway
+8 error node -v v0.10.33
+9 error npm -v 1.4.28
+10 error code ENOTSUP
+11 error errno 129
+12 verbose exit [ 129, true ]
